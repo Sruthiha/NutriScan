@@ -20,6 +20,6 @@
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: SQLite (or PostgreSQL)
 - **Authentication**: Django’s built-in auth / Firebase (for Google Sign-In)
-- **Deployment**: (Add your platform here e.g., Render, Heroku, etc.)
+- **Deployment**: Developed using **Visual Studio** on Windows
 
 ---
