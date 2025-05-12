@@ -4,8 +4,8 @@ from django.contrib.auth.models import User
 from django.contrib import messages
 from .models import UserProfile, ScannedFood
 
-def landing(request):
-    return render(request, 'users/landing.html')
+def index(request):
+    return render(request, 'users/index.html')
 
 from django.shortcuts import render, redirect
 from django.contrib.auth.models import User
